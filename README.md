@@ -1,1 +1,1 @@
-# seniorCapstone
+# Benign and Malicious PDF Detection
